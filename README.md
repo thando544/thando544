@@ -25,7 +25,7 @@ Hi, I’m Thando Mpofu, a passionate fullstack software developer from Victoria 
 [![](https://visitcount.itsvg.in/api?id=thando544&icon=4&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/thandoe9131/thando-mpofu) 
+    [![Paypal]([https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/thandoe9131/thando-mpofu](https://www.paypal.com/zw/cshelp/topic/help_account_personal)) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
