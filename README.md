@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi, I’m Thando Mpofu, a passionate fullstack software developer from Victoria Falls, Zimbabwe. I love building creative digital solutions — from sleek websites to powerful apps. Your support helps me keep creating, learning, and sharing awesome tech projects with the world!
 
 
