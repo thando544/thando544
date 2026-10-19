@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Thando Mpofu — Engineering software systems that scale</title>
+<desc id="desc">Minimal dark header with a geometric system topology and subtle blue highlights.</desc>
+<rect width="1200" height="340" fill="#050505"/>
+<g stroke="#181818" stroke-width="1">
+<path d="M0 52H1200M0 104H1200M0 156H1200M0 208H1200M0 260H1200M0 312H1200"/>
+<path d="M48 0V340M100 0V340M152 0V340M204 0V340M256 0V340M308 0V340M360 0V340M412 0V340M464 0V340M516 0V340M568 0V340M620 0V340M672 0V340M724 0V340M776 0V340M828 0V340M880 0V340M932 0V340M984 0V340M1036 0V340M1088 0V340M1140 0V340"/>
+</g>
+<rect x="44" y="34" width="1112" height="272" rx="14" fill="#080808" stroke="#292929"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<text x="79" y="79" fill="#6c7280" font-size="13" letter-spacing="3">THANDO.SYSTEM / PROFILE</text>
+<rect x="79" y="113" width="5" height="126" rx="2" fill="#4ea1ff"/>
+<text x="111" y="165" fill="white" font-size="57" font-weight="700" letter-spacing="-2">Thando Mpofu</text>
+<text x="113" y="209" fill="#c4c4cb" font-size="22">Software Engineer / AI Systems / Infrastructure</text>
+<text x="113" y="266" fill="#8d929d" font-size="15">VICTORIA FALLS, ZIMBABWE</text>
+<circle cx="1008" cy="153" r="73" fill="none" stroke="#242424"/>
+<circle cx="1008" cy="153" r="46" fill="none" stroke="#242424"/>
+<path d="M948 182L985 153L1024 174L1065 121M985 153L1008 107M1024 174L1051 203" fill="none" stroke="#64748b" stroke-width="2"/>
+<circle cx="948" cy="182" r="6" fill="#60a5fa"/><circle cx="985" cy="153" r="5" fill="#e5e7eb"/><circle cx="1024" cy="174" r="6" fill="#60a5fa"/><circle cx="1065" cy="121" r="6" fill="#e5e7eb"/><circle cx="1008" cy="107" r="5" fill="#60a5fa"/><circle cx="1051" cy="203" r="5" fill="#e5e7eb"/>
+<circle cx="1112" cy="65" r="4" fill="#25c892"/><text x="1070" y="71" font-size="12" fill="#a3a3a3">LIVE</text>
+</g>
+</svg>
